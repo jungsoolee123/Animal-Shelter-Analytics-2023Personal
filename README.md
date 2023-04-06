@@ -5,7 +5,11 @@
 	- Stray Map: Informtaion about found location of animals.
 	
 2. Exploratory Data Analysis
+<<<<<<< HEAD
 	- Intakes_EDA: Explored Intakes data. Derived several insights such as intake type of aged animals, rate of returned animals, seasonality of adoption. ( [Link] to Tableau Dashboard -> (https://public.tableau.com/views/AnimalIntakeAnalysis/AnimalTypeIntakeTypeIntakeCondition?:language=en-US&:display_count=n&:origin=viz_share_link))
+=======
+	- Intakes_EDA: Explored Intakes data. Derived several insights such as intake type of aged animals, rate of returned animals, seasonality of adoption. ([Tableau](https://public.tableau.com/views/AnimalIntakeAnalysis/AnimalTypeIntakeTypeIntakeCondition?:language=en-US&:display_count=n&:origin=viz_share_link)
+>>>>>>> 52ffc95187109afa14861d7d3ff38247d1f09adb
 	- Outcomes_EDA: Explored Outcome data. Derived several insights such as outcome type of aged animals, rate of returned animals, seasonality of outcome.
 	- Intakes_Outcomes_Combined: Merged intake and outcome datasets together using animal IDs and dates from each table.
 	- Stray Map: Visualized a map using geocoding.
