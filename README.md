@@ -9,7 +9,8 @@
 	- Outcomes_EDA: Explored Outcome data. Derived several insights such as outcome type of aged animals, rate of returned animals, seasonality of outcome.
 	- Intakes_Outcomes_Combined: Merged intake and outcome datasets together using animal IDs and dates from each table.
 	- Stray Map: Visualized a map using geocoding.
-3.
+	
+3. Modeling and Evaluation
 	- Outcome type Prediction
 	- Clustering
 
