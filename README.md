@@ -15,8 +15,8 @@
 	- Clustering
 
 * problem 1: due to the size of data, it takes too long to execute some codes
-  potential solution: use cloud computing -> currently working on how to use AWS
+	-> potential solution: use cloud computing -> currently working on how to use AWS
   
   problem 2: data includes categorical features in which there are too many string values
-  potential solution: group string values in each feature into fewer categories and make the values in categories nominal  
+	-> potential solution: group string values in each feature into fewer categories and make the values in categories nominal  
 
