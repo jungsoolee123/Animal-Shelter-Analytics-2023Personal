@@ -4,12 +4,14 @@
 	- Outcomes: Information about the intake cases in Austin Animal Center. Contain animal name, animal age, outcome type, outcome date&time, etc.
 	- Stray Map: Informtaion about found location of animals.
 	
-2. Exploratory Data Analysis
-	- Intakes_EDA: Explored Intakes data. Derived several insights such as intake type of aged animals, rate of returned animals, seasonality of adoption. ([Link_to_Dashboard](https://public.tableau.com/views/AnimalIntakeAnalysis/AnimalTypeIntakeTypeIntakeCondition?:language=en-US&:display_count=n&:origin=viz_share_link))
+<<<<<<< HEAD
+2. Exploratory Data Analysis ([Additional Analysis Using Tableau](https://public.tableau.com/app/profile/jungsoo.lee/viz/AnimalIntakeAnalysis/AnimalTypeIntakeTypeIntakeCondition))
+	- Intakes_EDA: Explored Intakes data. Derived several insights such as intake type of aged animals, rate of returned animals, seasonality of adoption. 
 	- Outcomes_EDA: Explored Outcome data. Derived several insights such as outcome type of aged animals, rate of returned animals, seasonality of outcome.
 	- Intakes_Outcomes_Combined: Merged intake and outcome datasets together using animal IDs and dates from each table.
 	- Stray Map: Visualized a map using geocoding.
-3.
+	
+3. Modeling and Evaluation
 	- Outcome type Prediction
 	- Clustering
 
