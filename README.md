@@ -5,11 +5,17 @@
 	- Stray Map: Informtaion about found location of animals.
 	
 2. Exploratory Data Analysis
-	- Intakes_EDA: Explored Intakes data. Derived several insights such as intake type of aged animals, rate of returned animals, seasonality of adoption. ([Tableau_Dashboard](https://public.tableau.com/views/AnimalIntakeAnalysis/AnimalTypeIntakeTypeIntakeCondition?:language=en-US&:display_count=n&:origin=viz_share_link))
+	- Intakes_EDA: Explored Intakes data. Derived several insights such as intake type of aged animals, rate of returned animals, seasonality of adoption. ([Link_to_Dashboard](https://public.tableau.com/views/AnimalIntakeAnalysis/AnimalTypeIntakeTypeIntakeCondition?:language=en-US&:display_count=n&:origin=viz_share_link))
 	- Outcomes_EDA: Explored Outcome data. Derived several insights such as outcome type of aged animals, rate of returned animals, seasonality of outcome.
 	- Intakes_Outcomes_Combined: Merged intake and outcome datasets together using animal IDs and dates from each table.
 	- Stray Map: Visualized a map using geocoding.
 3.
 	- Outcome type Prediction
 	- Clustering
+
+* problem 1: due to the size of data, it takes too long to execute some codes
+  potential solution: use cloud computing -> currently working on how to use AWS
+  
+  problem 2: data includes categorical features in which there are too many string values
+  potential solution: group string values in each feature into fewer categories and make the values in categories nominal  
 
